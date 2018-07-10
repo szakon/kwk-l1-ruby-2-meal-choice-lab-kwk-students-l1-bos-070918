@@ -14,9 +14,9 @@ end
 def dinner (dinner_food = "Salmon")
   puts "dinner time is the best time for #{dinner_food}"
 end
-breakfast_food
-lunch_food
-dinner_food
+breakfast
+lunch
+dinner
 
 
 
